@@ -27,7 +27,7 @@
 
 	- Resultado posterior a la optimización:
 
-	![](images/GTmetrix-final.jpg)
+	![](images/search-console.jpg)
 
 ### Integración con Google Search Console:
 
