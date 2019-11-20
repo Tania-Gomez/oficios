@@ -23,11 +23,11 @@
 
 	- Resultado anterior a la optimización:
 
-	![](images/GTmetrix-inicio.jpg)
+	![](https://github.com/Tania-Gomez/oficios/blob/master/images/GTmetrix-inicio.jpg)
 
 	- Resultado posterior a la optimización:
 
-	![](images/GTmetrix-final.jpg)
+	![](https://github.com/Tania-Gomez/oficios/blob/master/images/GTmetrix-final.jpg )
 
 ### Integración con Google Search Console:
 
