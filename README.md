@@ -1,14 +1,14 @@
 # Desafío - Oficio, Portal de búsqueda de oficios
 
-- URL del sitio: [http://g4e9.desafiolab.com/oficios/](http://g4e9.desafiolab.com/oficios/)
+## URL del sitio: [http://g4e9.desafiolab.com/oficios/](http://g4e9.desafiolab.com/oficios/)
 
-- Aspectos de seguridad que optimicé:
+## Aspectos de seguridad que optimicé:
 	- Instalación de última versión de WordPress
 	- Utilización de claves robustas
 	- Reducción de permisos del archivo wp-config.php de 666	a 600
 	- Instalación y configuración de plugin de seguridad Wordfence
 
-- Optimización:
+## Optimización:
 	- Archivo .htaccess con indicaciones para:
 		Comprimir archivos de texto.
 		Expiración de los headers, cada 1 mes.
@@ -29,7 +29,8 @@
 
 	![](images/GTmetrix-final.jpg)
 
-- Integración con Google Search Console:
+## Integración con Google Search Console:
 
 ![](images/search-console.jpg)
-- URL del sitemap: [https://g4e9.desafiolab.com/sitemap.xml](https://g4e9.desafiolab.com/sitemap.xml)
+
+- URL del sitemap: [https://g4e9.desafiolab.com/sitemap.xml](https://g4e9.desafiolab.com/sitemap.xml)
