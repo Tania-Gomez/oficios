@@ -27,7 +27,8 @@
 
 	- Resultado posterior a la optimización:
 
-	![](images/search-console.jpg)
+	![Resultado posterior a la optimización]
+	(https://github.com/Tania-Gomez/oficios/blob/master/images/GTmetrix-inicio.jpg)
 
 ### Integración con Google Search Console:
 
