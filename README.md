@@ -1,11 +1,11 @@
 # Desafío - Oficio, Portal de búsqueda de oficios
 
-### URL del sitio: [http://g4e9.desafiolab.com/oficios/](http://g4e9.desafiolab.com/oficios/)
+### URL del sitio: [http://g4e9.desafiolab.com/](http://g4e9.desafiolab.com/)
 
 ### Aspectos de seguridad que optimicé:
 	- Instalación de última versión de WordPress
 	- Utilización de claves robustas
-	- Reducción de permisos del archivo wp-config.php de 666	a 600
+	- Reducción de permisos del archivo wp-config.php de 666 a 600
 	- Instalación y configuración de plugin de seguridad Wordfence
 
 ### Optimización:
