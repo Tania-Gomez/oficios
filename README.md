@@ -21,19 +21,15 @@
 	- Instalación y configuración de plugin Auotptimize para optimizar y minificar HTML, JavaScript y CSS.
 	- Instalación y configuración de plugin W3 Total Cache para optimizar los temas de caché.
 
-	- Resultado anterior a la optimización:
-
-	![](https://github.com/Tania-Gomez/oficios/blob/master/images/GTmetrix-inicio.jpg)
-
-	- Resultado posterior a la optimización:
-
-	![Resultado posterior a la optimización]
-	(https://github.com/Tania-Gomez/oficios/blob/master/images/GTmetrix-inicio.jpg)
 	
-### Resultado posterior a la optimización:
+### Resultado anterior a la optimización:
 
 ![](images/GTmetrix-inicio.jpg)
 
+
+### Resultado posterior a la optimización:
+
+![](images/GTmetrix-final.jpg)
 
 
 ### Integración con Google Search Console:
