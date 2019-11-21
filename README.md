@@ -29,6 +29,13 @@
 
 	![Resultado posterior a la optimización]
 	(https://github.com/Tania-Gomez/oficios/blob/master/images/GTmetrix-inicio.jpg)
+	
+### Resultado posterior a la optimización:
+
+![](images/search-console.jpg)
+
+- URL del sitemap: [https://g4e9.desafiolab.com/sitemap.xml](https://g4e9.desafiolab.com/sitemap.xml)
+
 
 ### Integración con Google Search Console:
 
