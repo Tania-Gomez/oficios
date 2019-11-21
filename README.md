@@ -32,9 +32,8 @@
 	
 ### Resultado posterior a la optimización:
 
-![](images/search-console.jpg)
+![](images/GTmetrix-inicio.jpg)
 
-- URL del sitemap: [https://g4e9.desafiolab.com/sitemap.xml](https://g4e9.desafiolab.com/sitemap.xml)
 
 
 ### Integración con Google Search Console:
